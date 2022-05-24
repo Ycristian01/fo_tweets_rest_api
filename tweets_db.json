@@ -1,0 +1,40 @@
+{
+  "tweets": [
+		{
+			"type": "phrase",
+			"character": "cosmo",
+			"tweet": "No, fuera. Impulso de idiotez!"
+		},
+
+		{
+			"type": "dialogue",
+			"character": "timmy|cosmo|wanda",
+			"tweet": ""
+		},
+
+		{
+			"type": "phrase",
+			"character": "timmy",
+			"tweet": "Posición fetal? posición fetal? posición fetal?"
+		},
+
+		{
+			"type": "phrase",
+			"character": "timmy",
+			"tweet": "Mi amor por ella quema con la intensidad de mil soles"
+		},
+
+		{
+			"type": "phrase",
+			"character": "timmy",
+			"tweet": "Le gusto a la loca"
+		}, 
+
+		{
+			"type": "phrase",
+			"character": "veronica",
+			"tweet": "POR QUÉ NO PUEDO SER TÚ?"
+		}
+
+	]
+}
